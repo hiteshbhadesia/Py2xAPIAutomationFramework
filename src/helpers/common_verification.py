@@ -22,7 +22,7 @@ def verify_response_delete(response):
 def verify_response_key(key, expected_data):
     assert key == expected_data
 
-# Common Verification
+# Common Verfication
 # HTTP Status Code
 # Headers
 # Data Verification
